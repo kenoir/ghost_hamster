@@ -22,7 +22,10 @@
 
     bundle install
 
-* Run the tests:
+* Run the  Cucumber tests:
 
     bundle exec cucumber
 
+* Run the Jasmine tests
+
+    bundle exec rake jasmine:phantom:ci
