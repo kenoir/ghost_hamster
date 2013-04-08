@@ -30,3 +30,7 @@
     ```
     bundle exec rake jasmine:phantom:ci
     ```
+* Run the QUnit tests
+    ```
+    bundle exec rake phantom_qunit
+    ```
